@@ -1,6 +1,7 @@
 # Homebrew tap of Diavolezza
 
-    brew install --cask diavolezza/tap/wortuhr
+    brew tap diavolezza/tap
+    brew install --cask wortuhr
 
 | Cask | Description |
 |---|---|
