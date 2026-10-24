@@ -1,6 +1,6 @@
 cask "wortuhr" do
-  version "1.7"
-  sha256 "7461f4b29929c11f51cb5db17561d293762517b7e2e90b0f0dcedf9471ef17ec"
+  version "1.8"
+  sha256 "6feb80b7f5087b2a21707c6c26c7f4c2d2b73c2aa429c52e0b1a73c083d2ca00"
 
   url "https://github.com/Diavolezza/wortuhr/releases/download/v#{version}/Wortuhr-#{version}.zip"
   name "Wortuhr"
